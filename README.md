@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-This is a website I have created on Github pages and Jekyll.
+
 
 You can use the [editor on GitHub](https://github.com/bpatel2116/bpatel2116.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
